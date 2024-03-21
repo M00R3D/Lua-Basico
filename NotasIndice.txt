@@ -1,0 +1,34 @@
+Guia:
+    Nivel Principiante:
+        """"""""""Introducción a Lua""""""""""
+        """"""""""""""""Instalación del entorno de desarrollo""""""""""""""""
+        Variables y tipos de datos
+        Operadores y expresiones
+        Estructuras de control (if, else, elseif, while, for)
+        Funciones y procedimientos básicos
+        Tablas y arreglos
+        Entrada y salida básica (print, io.stdin, io.stdout)
+        Trabajo con cadenas de texto
+        Trabajo con archivos (lectura, escritura)
+        Manejo de errores y excepciones básicas
+    Nivel Intermedio:
+        Funciones avanzadas (parámetros variables, funciones anónimas, funciones de orden superior)
+        Módulos y paquetes
+        Metatablas y metodos
+        Programación orientada a objetos (POO) en Lua
+        Trabajo con módulos externos (instalación y uso)
+        Manejo avanzado de tablas (metatablas, iteradores)
+        Expresiones regulares
+        Serialización y deserialización de datos
+        Manipulación avanzada de archivos (crear, borrar, mover, copiar)
+    Nivel Avanzado:
+        Programación concurrente (hilos y concurrencia en Lua)
+        Trabajo con bases de datos (SQLite, MySQL, etc.)
+        Optimización de código
+        Introducción a la interfaz de usuario (GUI) con librerías como Love2D o GTK
+        Desarrollo de aplicaciones web con Lua (usando frameworks como Lapis o OpenResty)
+        Seguridad en Lua y prevención de ataques comunes (inyección de código, ataques de denegación de servicio, etc.)
+        Integración con otros lenguajes de programación (llamar a funciones de C, C++, etc.)
+        Desarrollo de videojuegos con Lua
+        Implementación de algoritmos y estructuras de datos avanzadas
+        Desarrollo de aplicaciones móviles con Lua (usando frameworks como Corona SDK)
