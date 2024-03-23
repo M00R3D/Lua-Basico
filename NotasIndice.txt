@@ -2,8 +2,8 @@ Guia:
     Nivel Principiante:
         """"""""""Introducción a Lua""""""""""
         """"""""""""""""Instalación del entorno de desarrollo""""""""""""""""
-        Variables y tipos de datos
-        Operadores y expresiones
+        """"""""""""""""Variables y tipos de datos""""""""""""""""
+        """"""""""""""""Operadores y expresiones""""""""""""""""
         Estructuras de control (if, else, elseif, while, for)
         Funciones y procedimientos básicos
         Tablas y arreglos
