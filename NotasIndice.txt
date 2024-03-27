@@ -4,9 +4,9 @@ Guia:
         """"""""""""""""Instalación del entorno de desarrollo""""""""""""""""
         """"""""""""""""Variables y tipos de datos""""""""""""""""
         """"""""""""""""Operadores y expresiones""""""""""""""""
-        Estructuras de control (if, else, elseif, while, for)
-        Funciones y procedimientos básicos
-        Tablas y arreglos
+        """"""""""""""""Estructuras de control (if, else, elseif, while, for)""""""""""""""""
+        """"""""""""""""Funciones y procedimientos básicos""""""""""""""""
+        """"""""""""""""Tablas y arreglos""""""""""""""""
         Entrada y salida básica (print, io.stdin, io.stdout)
         Trabajo con cadenas de texto
         Trabajo con archivos (lectura, escritura)
